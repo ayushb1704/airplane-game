@@ -39,8 +39,8 @@ Controls :
 
 • Throttle : W / S
 • Pitch: Up / Down
-• Roll: A / D
-• Yaw: Left / Right
+• Roll: Left / Right
+• Yaw: A / D
 • Drop Balloon: Space
 • Switch Camera: C
 • Capture Photo: P
